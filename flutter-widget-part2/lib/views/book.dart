@@ -39,7 +39,7 @@ class _BookState extends State<Book> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Bugatti Veyron"),
+        title: Text("Valorant"),
       ),
       body: SingleChildScrollView(
         child: Container(
